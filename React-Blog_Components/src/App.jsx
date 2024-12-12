@@ -1,11 +1,13 @@
-
+import appheader from "./component/headerapp.jsx"
 
 function App() {
   
 
   return (
     <>
-      <h1>hello word</h1>
+    <appheader />
+    <section id="main"></section>
+    <section id="footer"></section>
     </>
   )
 }

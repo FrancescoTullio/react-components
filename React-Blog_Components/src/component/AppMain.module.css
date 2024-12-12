@@ -1,0 +1,23 @@
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.cardBody{
+    background-color: white;
+}
+
+.col{
+    width: 40%;
+}
+
+h3{
+    padding: 1rem;
+}
+
+p{
+    padding: 1rem;
+}
+.card{
+    border-radius: 20px;
+}

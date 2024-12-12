@@ -1,13 +1,15 @@
-import appheader from "./component/headerapp.jsx"
+import AppHeader from "./component/AppHeader.jsx"
+import AppMain from "./component/AppMain.jsx"
+import AppFooter from "./component/AppFooter.jsx"
 
 function App() {
   
 
   return (
     <>
-    <appheader />
-    <section id="main"></section>
-    <section id="footer"></section>
+    <AppHeader />
+    <AppMain />
+    <AppFooter />
     </>
   )
 }

@@ -20,4 +20,5 @@ p{
 }
 .card{
     border-radius: 20px;
+    overflow: hidden;
 }
